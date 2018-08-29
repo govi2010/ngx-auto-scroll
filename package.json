@@ -14,16 +14,16 @@
   ],
   "dependencies": {},
   "peerDependencies": {
-    "@angular/core": "^5.0.0",
-    "@angular/common": "^5.0.0",
-    "rxjs": "^5.5.2",
-    "zone.js": "^0.8.14"
+    "@angular/core": "^6.1.4",
+    "@angular/common": "^6.1.4",
+    "rxjs": "^6.2.1",
+    "zone.js": "^0.8.26"
   },
   "devDependencies": {
-    "@angular/core": "^5.0.0",
-    "@angular/common": "^5.0.0",
-    "rxjs": "^5.5.2",
-    "zone.js": "^0.8.14",
+    "@angular/core": "^6.1.4",
+    "@angular/common": "^6.1.4",
+    "rxjs": "^6.2.1",
+    "zone.js": "^0.8.26",
     "typescript": "~2.4.2",
     "ng-packagr": "latest",
     "cpx": "latest",
